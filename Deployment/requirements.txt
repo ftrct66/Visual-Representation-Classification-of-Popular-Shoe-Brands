@@ -1,0 +1,7 @@
+waitress
+numpy
+Pillow
+streamlit
+tensorflow
+tensorflow_hub
+joblib
